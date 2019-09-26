@@ -1,0 +1,9 @@
+C:\projetos_estudos\prjEstudo_Fiap\Trabalho_Fiap_Web\Receita_Core\Receita_Core\bin\Debug\netstandard2.0\Receita_Core.deps.json
+C:\projetos_estudos\prjEstudo_Fiap\Trabalho_Fiap_Web\Receita_Core\Receita_Core\bin\Debug\netstandard2.0\Receita_Core.dll
+C:\projetos_estudos\prjEstudo_Fiap\Trabalho_Fiap_Web\Receita_Core\Receita_Core\obj\Debug\netstandard2.0\Receita_Core.csprojAssemblyReference.cache
+C:\projetos_estudos\prjEstudo_Fiap\Trabalho_Fiap_Web\Receita_Core\Receita_Core\obj\Debug\netstandard2.0\Receita_Core.csproj.CoreCompileInputs.cache
+C:\projetos_estudos\prjEstudo_Fiap\Trabalho_Fiap_Web\Receita_Core\Receita_Core\obj\Debug\netstandard2.0\Receita_Core.RazorAssemblyInfo.cache
+C:\projetos_estudos\prjEstudo_Fiap\Trabalho_Fiap_Web\Receita_Core\Receita_Core\obj\Debug\netstandard2.0\Receita_Core.RazorAssemblyInfo.cs
+C:\projetos_estudos\prjEstudo_Fiap\Trabalho_Fiap_Web\Receita_Core\Receita_Core\obj\Debug\netstandard2.0\Receita_Core.AssemblyInfoInputs.cache
+C:\projetos_estudos\prjEstudo_Fiap\Trabalho_Fiap_Web\Receita_Core\Receita_Core\obj\Debug\netstandard2.0\Receita_Core.AssemblyInfo.cs
+C:\projetos_estudos\prjEstudo_Fiap\Trabalho_Fiap_Web\Receita_Core\Receita_Core\obj\Debug\netstandard2.0\Receita_Core.RazorTargetAssemblyInfo.cache
